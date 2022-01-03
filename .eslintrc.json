@@ -5,6 +5,6 @@
     "plugin:@next/next/recommended"
   ],
   "rules": {
-    "endOfLine": "off"
+    "endOfLine": 0
   }
 }
