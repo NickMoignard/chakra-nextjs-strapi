@@ -4,6 +4,11 @@
     "vivaxy.vscode-conventional-commits",
     "dsznajder.es7-react-js-snippets",
     "mhutchie.git-graph",
-    "oderwat.indent-rainbow"
+    "oderwat.indent-rainbow",
+    "streetsidesoftware.code-spell-checker",
+    "graphql.vscode-graphql",
+    "xyz.local-history",
+    "rvest.vs-code-prettier-eslint",
+    "gruntfuggly.todo-tree"
   ]
 }
