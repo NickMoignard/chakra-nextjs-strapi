@@ -14,5 +14,25 @@
         "sozonome",
         "Strapi",
         "Vercel"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#4be9f2",
+        "activityBar.activeBorder": "#f24de9",
+        "activityBar.background": "#4be9f2",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#f24de9",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#4be9f2",
+        "statusBar.background": "#1ce3ee",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#0fbec8",
+        "statusBarItem.remoteBackground": "#1ce3ee",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#1ce3ee",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#1ce3ee99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#1ce3ee"
 }
