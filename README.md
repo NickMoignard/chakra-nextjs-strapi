@@ -1,8 +1,7 @@
-# Din'goh
+# NextJS + Strapi = 💖
 
-## E-Commerce Store Template
+## Quickstart Template
 
-Din'goh is an ecommerce website template built with Next.JS, Typescript, GraphQL, Chakra-UI & Strapi
 
 Originally Bootstrapped using [nextarter-chakra](https://github.com/sozonome/nextarter-chakra).
 >*[A] battery packed template / boilerplate to initialize PWA ready Next.js app with Chakra UI & Typescript setup ✨*
