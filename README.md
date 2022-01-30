@@ -1,3 +1,5 @@
+# please note this template is not finished and is under construction.
+
 # NextJS + Strapi = 💖
 
 ## Quickstart Template
